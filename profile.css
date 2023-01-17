@@ -108,3 +108,26 @@ footer .copyright .pro-link i{
    color: #2c2c2c;
 }
 @media (max-width: 769pxl)
+    
+    .top-link{
+    padding: 0 1.5rem;
+}
+.linking{
+    color: black;
+    text-decoration: none;
+}
+.col{
+    background-color: beige;
+    margin: 2rem;
+}
+.propic{
+    width: 10rem;
+    border-radius: 100%;
+
+}
+.row{
+    text-align: center;
+}
+.info{
+    padding: 5%;
+}
